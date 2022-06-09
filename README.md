@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smallbutmighty-create
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently learning Data Analysis with Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +234 912 795 2175
 
