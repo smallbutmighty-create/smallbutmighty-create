@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smallbutmighty-create
+- 👋 Hi, I’m Dohou Sewanu Success 
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis with Excel
 - 💞️ I’m looking to collaborate on ...
